@@ -1,0 +1,37 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "JevMods"
+name = "YouDied"
+versionNumber = "1.0.0"
+description = "Replaces the vanilla death screen with the classic Dark Souls \"You died\" screen."
+websiteUrl = "https://github.com/JevMods/YouDied"
+containsNsfwContent = false
+
+[package.dependencies]
+denikson-BepInExPack_Valheim = "5.4.2351"
+
+[build]
+icon = "./package/icon.png"
+readme = "./README.md"
+outdir = "./dist"
+
+[[build.copy]]
+source = "./src/YouDied/bin/Release/YouDied.dll"
+target = "/"
+
+[[build.copy]]
+source = "./src/YouDied/assets"
+target = "/assets"
+
+[[build.copy]]
+source = "./package/CHANGELOG.md"
+target = "/"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "valheim" ]
+
+[publish.categories]
+valheim = [ "mods", "tweaks", "client-side" ]
