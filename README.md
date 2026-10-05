@@ -1,10 +1,11 @@
 # YouDied
 
-Replaces vanilla death screen with classic Dark Souls "You died" screen.
+Replaces the vanilla death screen with the classic Dark Souls "You died" banner and a death sound.
 
 ## Features
 
-- Reduced delay between player's death and respawning.
+- Shows the "You died" banner with a death sound.
+- Shorter delay between your death and respawning.
 - Reuses existing "You died" translation to match the language you've set in game.
 
 ## Configuration
