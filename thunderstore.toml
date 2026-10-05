@@ -4,8 +4,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "JevMods"
 name = "YouDied"
-versionNumber = "1.0.3"
-description = "Replaces the vanilla death screen with the Dark Souls \"You died\" banner and a death sound, and shortens the wait before you respawn. The text follows your game language. Client-side, with a volume setting."
+versionNumber = "1.0.4"
+description = "Replaces the vanilla death screen with the classic Dark Souls \"You died\" banner and a death sound."
 websiteUrl = "https://github.com/JevMods/YouDied"
 containsNsfwContent = false
 

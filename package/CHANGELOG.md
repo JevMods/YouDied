@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Synced the Thunderstore description with the README.
+
 ## 1.0.3
 
 - Updated the description and README to cover the death sound and its volume setting.
