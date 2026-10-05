@@ -1,10 +1,10 @@
 # YouDied
 
-Replaces the vanilla death screen with the classic Dark Souls "You died" screen.
+Replaces vanilla death screen with classic Dark Souls "You died" screen.
 
 ## Features
 
-- Shortens the delay before character dying and respawning.
+- Reduced delay between player's death and respawning.
 - Reuses existing "You died" translation to match the language you've set in game.
 
 ## Configuration
@@ -12,6 +12,10 @@ Replaces the vanilla death screen with the classic Dark Souls "You died" screen.
 The only setting is in `BepInEx/config/JevMods.YouDied.cfg`, created on first launch.
 
 - `Sound.Volume`: volume of the death sound, from 0 to 1 (default 0.7).
+
+## Feedback
+
+Found a bug or have an idea for a change? Open an issue on the [GitHub issues page](https://github.com/JevMods/YouDied/issues). Refactoring suggestions are welcome too. I'll go through everything as fast as I can.
 
 ## Building from source
 
