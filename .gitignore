@@ -6,3 +6,4 @@ dist/
 Environment.props
 .env
 tools/
+.vscode/
