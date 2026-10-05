@@ -2,8 +2,8 @@ bin/
 obj/
 dist/
 .vs/
+.vscode/
 *.user
 Environment.props
 .env
 tools/
-.vscode/
