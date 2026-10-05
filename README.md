@@ -4,8 +4,8 @@ Replaces the vanilla death screen with the classic Dark Souls "You died" screen.
 
 ## Features
 
-- Shortens the fade to black and the wait before respawning.
-- Follows your language through the game's own translation of "You died".
+- Shortens the delay before character dying and respawning.
+- Reuses existing "You died" translation to match the language you've set in game.
 
 ## Configuration
 
