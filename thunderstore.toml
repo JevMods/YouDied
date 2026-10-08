@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "JevMods"
 name = "YouDied"
-versionNumber = "1.0.4"
+versionNumber = "1.0.5"
 description = "Replaces the vanilla death screen with the classic Dark Souls \"You died\" banner and a death sound."
 websiteUrl = "https://github.com/JevMods/YouDied"
 containsNsfwContent = false

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- New icon: the "You died" banner over a Black Forest scene rendered in the game.
+
 ## 1.0.4
 
 - Synced the Thunderstore description with the README.
